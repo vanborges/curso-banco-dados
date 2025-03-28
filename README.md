@@ -1,4 +1,4 @@
-# 📚 Curso de Banco de Dados
+# Curso de Banco de Dados
 
 Este repositório contém o material da disciplina de **Banco de Dados**, ministrada por **Vanessa Borges**, com base nos livros de **Ramez Elmasri & Shamkant Navathe** e **Carlos Heuser**.
 
